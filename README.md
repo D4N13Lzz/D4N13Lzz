@@ -58,7 +58,6 @@ No meu GitHub você encontrará diversos projetos pessoais e acadêmicos, desde 
 - 🧮 [Simulador de Máquina de Vendas](https://fivestarstcc.netlify.app)
 - 🏢 [Sites Institucionais em Angular](https://salaosantana-2024.vercel.app)
 - 🛒 [E-commerce Completo (Clone)](https://atelienathy-2023.vercel.app)
-- 👤 [Portfólio Pessoal](https://portfolio1-2023.vercel.app)
 
 ---
 
